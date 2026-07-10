@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NjangiHub</string>
+    <string name="title_activity_main">NjangiHub</string>
+    <string name="package_name">com.techbridgehub.njangi</string>
+    <string name="custom_url_scheme">com.techbridgehub.njangi</string>
+</resources>
